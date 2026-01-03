@@ -1,0 +1,62 @@
+{
+    "accueil": {
+        "presentation générale": "BIENVENUE SUR LE SITE DU KULL KID !<br><br>ICI, IL EST QUESTION DE VIDÉO, ET PEUT-ÊTRE MÊME DE VOTRE VIDÉO.<br>POUR VOUS FAIRE UNE IDÉE SANS ATTENDRE, VOUS ÊTES AU BON ENDROIT. <br><br>BONNE VISITE !",
+        "video": "https://www.youtube.com/embed/2gVXywq427M"
+    },
+    "le kull kid": {
+        "presentation": "LE KULL KID, C'EST MOI.<br>JE M'APPELLE THIBAUT, ET JE METS EN SCÈNE VOS HISTOIRES.<br>CELLES QUE VOUS VIVEZ.<br>CELLES QUE VOUS ECRIVEZ.<br>CELLES QUE VOUS PARTAGEZ.<br>EXPLIQUEZ MOI VOTRE HISTOIRE, ET JE M'OCCUPERAI DE LA RACONTER.",
+        "sections": [
+            {
+                "titre": "Institutionnel",
+                "contenu": "ENFIN, VOUS Y ÊTES.<br><br>LES PLANS SONT PRÊTS.<br>OU ALORS LES DISCOURS.<br>PEUT-ETRE L'INAUGURATION.<br><br>EN TOUT CAS, TOUT CE TRAVAIL PAIE ENFIN. VOTRE TRAVAIL DE L'OMBRE, AU SERVICE DE TOUS.<br><br>ET SI ON LE PARTAGEAIT ?"
+            },
+            {
+                "titre": "Entreprise",
+                "contenu": "FINALEMENT, UNE ENTREPRISE, QU'EST-CE QUE CEST ?<br>UN NOM.<br>UN LOGO.<br><br>DES RÉUSSITES.<br>QUELQUES ÉCHECS.<br>DU BOULOT, SOUVENT.<br>ET DES GENS, TOUJOURS.<br><br>ET SI ON PARLAIT DE TOUT ÇA ?"
+            },
+            {
+                "titre": "Associatif",
+                "contenu": "VOUS ÊTES DANS UNE ASSO.<br>PAR ENCAGEMENT.<br>PAR PASSION.<br>PAR DEVOIR.<br>PAR ENVIE.<br><br>VOUS ÊTES DANS UNE ASSO PARCE QUE SELON VOUS LE MONDE EST UN PEU PLUS AGRÉABLE COMME ÇA.<br><br>ET SI ON LEUR MONTRAIT ?"
+            },
+            {
+                "titre": "Tout le reste",
+                "contenu": "ICI, C'EST DIFFÉRENT.<br><br>PEUT-ÊTRE QU'IL VOUS FAUT UNE PAIRE DE BRAS EN PLUS POUR UN PROJET À VOUS.<br><br>OU BIEN IL S'AGIT DE FILMER EN CONDITIONS PARTICULIERES.<br>EN BREF. CE NE SERA PAS UNE COMMANDE CLASSIQUE.<br><br>ET SI ON ÉCHANGEAIT ?"
+            }
+        ]
+    },
+    "galerie": [
+        {
+            "lien": "https://www.youtube.com/embed/L8I-QMhU_NA",
+            "client": "La Garde du Houblon - Show médiéval"
+        },
+        {
+            "lien": "https://www.youtube.com/embed/9zLwWJGNbfY",
+            "client": "La Wantzenau - Voeux de Mme le maire"
+        },
+        {
+            "lien": "https://www.youtube.com/embed/CFA4u8I12As",
+            "client": "IESA - Graduation/Remise des diplômes"
+        },
+        {
+            "lien": "https://www.youtube.com/embed/0M9CfZUBDXQ",
+            "client": "Betzels d'Or - Cérémonie de remise de prix"
+        }
+    ],
+    "faq": [
+        {
+            "question": "#1 - COMBIEN ÇA COÛTE ?",
+            "reponse": "VOUS L'AVEZ PEUT-ÊTRE CONSTATÉ, IL N'Y A AUCUN TARIF AFFICHÉ SUR LE SITE. ET POUR CAUSE, IL N'EST PAS POSSIBLE DE DÉFINIR UN PRIX \"CATALOGUE\" EN VIDÉO.<br><br>LE TARIF DE VOTRE PRESTATION VA S'ÉTABLIR SELON LA NATURE DE VOTRE PROJET AINSI QUE DES ATTENDUS QUE VOUS Y ATTACHEZ.<br><br>UNE FOIS QUE NOUS AURONS PU ÉCHANGER ENSEMBLE SANS QUE CELA NE VOUS ENGAGE. VOUS RECEVREZ UN DEVIS PERSONNALISÉ.",
+            "icone": "MdOutlineReceiptLong"
+        },
+        {
+            "question": "#2 - OÙ EST DISPONIBLE KULL KID ?",
+            "reponse": "LE KULL KID EST BASÉ JUSTE À CÔTÉ DE STRASBOURG, EN ALSACE.<br><br>LA PREMIÈRE ZONE DE CHALANDISE EST DONC LA RÉGION ENTIÈRE, QUE L'ON PEUT ÉTENDRE AU GRAND EST.<br><br>MAINTENANT. SELON VOTRE PROJET ET LES MOYENS ENGAGÉS, IL EST TOUTEFOIS ENVISAGEABLE DE SE DEPLACER À L'ÉCHELLE NATIONALE.<br><br>N'HÉSITEZ PAS À PRENDRE CONTACT POUR M'EXPLIQUER VOTRE PROJET EN DÉTAILS.",
+            "icone": "FaMapMarkedAlt"
+        },
+        {
+            "question": "#3 - JUSQU'OÙ VA LA PRESTATION ?",
+            "reponse": "ELLE VA AUSSI LOIN QUE VOUS AVEZ BESOIN QUELLE AILLE.<br><br>KULL KID PEUT FOURNIR UN SERVICE COMPLET DE LA PRÉPRODUCTION À LA POSTPRODUCTION, OU BIEN AGIR LORS D'ÉTAPES SPÉCIFIQUES.<br><br>PARTICIPER À L'ÉCRITURE D'UN SCRIPT, S'OCCUPER UNIQUEMENT DU MONTAGE, RÉALISER UNE VIDEO DE A À Z ... C'EST VOUS QUI ALLEZ DÉFINIR LE CHAMP D'ACTION.<br><br>SAVEZ-VOUS DÉJÀ CE QU'IL VOUS FAUT ?",
+            "icone": "GiSwissArmyKnife"
+        }
+    ]
+}
